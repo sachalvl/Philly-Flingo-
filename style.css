@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red {
+  color: rgb(255, 0, 4);
+}
+.green{
+    color:green
+}
+
+.purple{
+    color:purple
+}
+
+.gold{
+    color:gold
+}
+
+.bold{
+    font-weight: 400;
+}
+
+.italic {
+    font-style: italic;
+}
+
+h1, h2{
+text-align: center;
+}
+
+.gauche{
+    text-align : left
+}
+
+.bg-green{
+    background-color: cyan;
+}
+
+.bg-image{
+    color: ghostwhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    background-image: 
+    url("asset/Gungeon_Before_The_Bullet_Change.webp");
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.align-center {
+    align-items: center;
+}
+
+width30 {
+    width: 30%;
+}
